@@ -1,0 +1,3 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<ReturnNestedNull /> should render 1`] = `<ReturnNull />`;
